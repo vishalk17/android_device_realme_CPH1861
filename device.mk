@@ -1,4 +1,5 @@
 -include $(DEVICE_PATH)/hidl.mk
+-include $(DEVICE_PATH)/props.mk
 
 # Vendor SPL
 VENDOR_SECURITY_PATCH := $(PLATFORM_SECURITY_PATCH)
