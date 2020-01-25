@@ -115,7 +115,6 @@ BOARD_VNDK_VERSION := current
 
 # System and Vendor Properties
 TARGET_SYSTEM_PROP := $(DEVICE_PATH)/system.prop
-TARGET_VENDOR_PROP := $(DEVICE_PATH)/vendor.prop
 
 # Selinux
 #BOARD_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy
