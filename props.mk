@@ -124,7 +124,6 @@ PRODUCT_PROPERTY_OVERRIDES +=  \
     ro.telephony.default_network=10,10 \
     ro.telephony.sim.count=2 \
     ro.ussd_ksc5601=0 \
-    ro.vendor.rc=/vendor/etc/init/hw/ \
     ro.vendor.ap_info_monitor=0 \
     ro.vendor.app_resolution_tuner=1 \
     ro.vendor.camera3.zsl.default=140 \
